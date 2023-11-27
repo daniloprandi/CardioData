@@ -1,4 +1,4 @@
-# CardioDati
+# CardioApp
 
 cardio_data_processed.csv
 - the dataset I am working with
